@@ -7,4 +7,4 @@ Abstract: Transcription factors (TFs) bind to DNA regulatory sequences by recogn
 
 Motif files used in this project are originally from <https://github.com/jenhantao/abtba/tree/master/default_motifs>.
 
-A self-written utility package ["szy"]() was made to serve purposes of loading motif files, reading FASTA files, and converting DNA sequence to one-hot vectors.
+A self-written utility package ["szy"](https://github.com/zeyang-shen/ICML_2019/tree/master/szy) was made to serve purposes of loading motif files, reading FASTA files, and converting DNA sequence to one-hot vectors.
