@@ -1,5 +1,5 @@
 # ICML_2019
-Codes and data for **"Interpreting Spacing Constraints of Transcription Factor Motifs from Convolutional Neural Networks"** published on Workshop on Computional Biology @ ICML 2019
+Codes and data for **"Interpreting Spacing Constraints of Transcription Factor Motifs from Convolutional Neural Networks"**(https://drive.google.com/file/d/1LsmvC_pxVzxQYUGGWtbZHlhcgXQyjUmx/view) published on Workshop on Computional Biology @ ICML 2019
 
 Summary: We used CNNs to capture TF motifs and spacing between motifs at the same time. We designed our inputs to enable the interpretation directly related to TF motifs. The importance scores/saliency map incorporated the information of motif score as well as spacing and acted as a good indicator of TF binding.
 
